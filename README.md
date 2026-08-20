@@ -1,8 +1,8 @@
-# Redwyre — Data & AI Growth Platform
+# TheRecons — Data & AI Growth Platform
 
 > **"We don't just build dashboards. We build clarity."**
 
-Redwyre is a modern, high-converting web application designed for a data analytics and AI consultancy agency. The platform highlights key services—such as custom sales dashboards, workflow automation, and growth strategy—while capturing leads through an interactive "Free Growth Audit" workflow.
+Therecons is a modern, high-converting web application designed for a data analytics and AI consultancy agency. The platform highlights key services—such as custom sales dashboards, workflow automation, and growth strategy—while capturing leads through an interactive "Free Growth Audit" workflow.
 
 ---
 
@@ -38,5 +38,5 @@ Make sure you have Node.js (v18.0 or higher) and npm/pnpm/yarn installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/redwyre-app.git](https://github.com/your-username/redwyre-app.git)
-   cd redwyre-app
+   git clone [https://github.com/your-username/Therecons-app.git](https://github.com/your-username/Therecons-app.git)
+   cd Therecons-app
