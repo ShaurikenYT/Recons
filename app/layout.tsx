@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Redwyre — Data & AI Consultancy',
+  title: 'The Recons — Strategic Advisory & Reconciliation Services',
   description: 'Build clarity with custom sales insights, intelligent AI automation, and data-backed growth strategy.',
   generator: 'Redwyre',
   icons: {
