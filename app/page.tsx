@@ -47,7 +47,7 @@ export default function Page() {
   return (
     <main className="site-shell">
       <nav className="nav-wrap" aria-label="Main navigation">
-        <a href="#top" className="brand"><span className="brand-mark">R</span><span>REDWYRE</span><small>Fueling decisions with data</small></a>
+        <a href="#top" className="brand"><img className="brand-logo" src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Fubxrz3TBYMV3D87NdzXkSRQ2VDsmb.png" alt="The Recons" /><span>THE RECONS</span><small>Strategic advisory & reconciliation services</small></a>
         <button className="mobile-menu" aria-label="Toggle navigation" onClick={() => setMobileOpen(!mobileOpen)}>{mobileOpen ? <X /> : <Menu />}</button>
         <div className={`nav-links ${mobileOpen ? 'is-open' : ''}`}>
           <a href="#services" onClick={() => setMobileOpen(false)}>Services</a><a href="#solutions" onClick={() => setMobileOpen(false)}>Solutions</a><a href="#proof" onClick={() => setMobileOpen(false)}>Case studies</a>

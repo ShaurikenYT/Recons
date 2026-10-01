@@ -23,6 +23,7 @@ button { cursor: pointer; }
 .site-shell { min-height: 100vh; overflow: hidden; background: radial-gradient(circle at 75% 10%, rgba(0,102,255,.08), transparent 24rem), #090a0c; }
 .nav-wrap { max-width: 1240px; margin: 0 auto; padding: 25px 32px; display: flex; align-items: center; justify-content: space-between; position: relative; z-index: 10; }
 .brand { display: flex; align-items: center; gap: 9px; font-size: 14px; letter-spacing: .15em; font-weight: 700; }
+.brand-logo { width: 32px; height: 32px; object-fit: cover; object-position: center; border: 1px solid #35404b; }
 .brand-mark { display: grid; place-items: center; width: 23px; height: 23px; border: 1px solid #f4f5f7; font-size: 12px; letter-spacing: 0; }
 .brand small { color: #747984; font-size: 8px; letter-spacing: .08em; font-weight: 400; margin-left: 6px; }
 .nav-links { display: flex; gap: 28px; align-items: center; color: #a0a5af; font-size: 12px; }
